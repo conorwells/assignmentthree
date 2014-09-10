@@ -4,5 +4,7 @@
     <string name="app_name">assignmentthree</string>
     <string name="hello_world">Hopefully this all works out!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_alecia_screen">AleciaScreen</string>
+    <string name="title_activity_huy_screen">HuyScreen</string>
 
 </resources>
